@@ -1,2 +1,3 @@
-import rand
-rand.menu()
+import os
+print('Tool is off temporary')
+#rand.menu()
