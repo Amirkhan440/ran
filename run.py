@@ -1,0 +1,2 @@
+import rand
+rand.menu()
